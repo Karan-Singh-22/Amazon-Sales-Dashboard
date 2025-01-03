@@ -11,15 +11,18 @@ This project involves designing an interactive Power BI dashboard to analyze and
  
 ## Features
 ### Page 1: Overview
+![Page 1](https://github.com/user-attachments/assets/57fa8801-acd5-4055-99b5-b63d67aee580)
 
 Displays Key Performance Indicators (KPIs): Total Sales, Quantity Sold.
 Includes graphical representations of sales units over time.
 Features interactive slicers for filtering by category and order status.
 ### Page 2: Product Overview
+![Page 2](https://github.com/user-attachments/assets/c8ebb059-4e2b-4933-9d82-082d929a9bfe)
 
 Lists all products using a tile slicer for intuitive filtering.
 Includes tooltips showing unit sold, sales amount, and product ratings when hovering over items.
 ### Page 3: Product View
+![Page 3](https://github.com/user-attachments/assets/69e1029a-d906-4af1-a1ea-70bd69f41844)
 
 Provides detailed insights into each product, including unit sold, sales amount, and ratings.
 Features tile slicers to filter by product category for a granular view of performance metrics.
