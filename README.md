@@ -27,11 +27,11 @@ Features tile slicers to filter by product category for a granular view of perfo
 
  
 ## Tools and Technologies Used
-Power BI
+•Power BI
 
-Data modeling
+•Data modeling
 
-Interactive Visualization Techniques
+•Interactive Visualization Techniques
  
 
  
