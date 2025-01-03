@@ -28,14 +28,18 @@ Features tile slicers to filter by product category for a granular view of perfo
  
 ## Tools and Technologies Used
 Power BI
+
 Data modeling
+
 Interactive Visualization Techniques
  
 
  
 ## Key Outcomes
 Developed an intuitive and interactive dashboard to explore sales performance.
+
 Enhanced decision-making through detailed product views and dynamic slicers.
+
 Improved analytical capabilities with insightful tooltips and category-based filters.
  
 
