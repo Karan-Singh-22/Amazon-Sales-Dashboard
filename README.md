@@ -27,11 +27,11 @@ Features tile slicers to filter by product category for a granular view of perfo
 
  
 ## Tools and Technologies Used
-•Power BI
+• Power BI
 
-•Data modeling
+• Data modeling
 
-•Interactive Visualization Techniques
+• Interactive Visualization Techniques
  
 
  
@@ -45,7 +45,7 @@ Improved analytical capabilities with insightful tooltips and category-based fil
 
  
 ## What I Learned
-Advanced Power BI features like interactive slicers, tooltips, and tile slicers.
-How to design multi-page dashboards for a seamless analytical experience.
-Effective visualization of large datasets for business insights.
+• Advanced Power BI features like interactive slicers, tooltips, and tile slicers.
+• How to design multi-page dashboards for a seamless analytical experience.
+• Effective visualization of large datasets for business insights.
  
