@@ -36,16 +36,18 @@ Features tile slicers to filter by product category for a granular view of perfo
 
  
 ## Key Outcomes
-Developed an intuitive and interactive dashboard to explore sales performance.
+• Developed an intuitive and interactive dashboard to explore sales performance.
 
-Enhanced decision-making through detailed product views and dynamic slicers.
+• Enhanced decision-making through detailed product views and dynamic slicers.
 
-Improved analytical capabilities with insightful tooltips and category-based filters.
+• Improved analytical capabilities with insightful tooltips and category-based filters.
  
 
  
 ## What I Learned
 • Advanced Power BI features like interactive slicers, tooltips, and tile slicers.
+
 • How to design multi-page dashboards for a seamless analytical experience.
+
 • Effective visualization of large datasets for business insights.
  
